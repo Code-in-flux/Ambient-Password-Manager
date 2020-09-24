@@ -1,4 +1,4 @@
-# Password-Manager
+# Ambient Password-Manager
 
 ### Overview
 This is a repository for a rather interesting password manager, which is secure enough!
