@@ -6,8 +6,8 @@
  stores Incorrect password enries of `{username}`. (Seperate file for each user)
  
 ### Password Database (directory)-
-+ [{username}.pdb]()-
- stores the passwords of `{username}`. (Seperate file for each user)
++ [{username}.psddb]()-
+ stores the passwords of `{username}` in an encrypted format. Note that 'psddb' stands for 'PasSworD DataBase' (Seperate file for each user)
  
 ### Password_Manager.py (file)-
 The main program which does all the work
