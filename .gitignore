@@ -9,6 +9,9 @@ dist/
 *.py[cod]
 **/__pycache__/
 
+# Previous Version's folder
+Releases/
+
 # Package files
 *.jar
 
