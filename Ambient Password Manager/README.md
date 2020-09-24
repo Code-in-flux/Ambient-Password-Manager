@@ -9,6 +9,6 @@
 + [{username}.psddb]()-
  stores the passwords of `{username}` in an encrypted format. Note that 'psddb' stands for 'PasSworD DataBase' (Seperate file for each user)
  
-### Password_Manager.py (file)-
+### Ambient-Password_Manager.py (file)-
 The main program which does all the work
 
