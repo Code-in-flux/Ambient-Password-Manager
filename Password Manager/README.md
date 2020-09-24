@@ -3,7 +3,7 @@
 + [failed_captcha.log]()-
  stores invalid captcha entries
 + [Incorrect_trials-{username}.log]()-
- stores Incorrect password enries of `{username}. (Seperate file for each user)
+ stores Incorrect password enries of `{username}`. (Seperate file for each user)
  
 ### Password Database (directory)-
 + [{username}.pdb]()-
