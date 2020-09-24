@@ -7,7 +7,7 @@ dist/
 
 # Compiled Python bytecode
 *.py[cod]
-__pycache__/
+**/__pycache__/
 
 # Package files
 *.jar
