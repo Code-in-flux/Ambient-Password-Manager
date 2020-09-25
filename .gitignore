@@ -2,18 +2,12 @@
 node_modules/
 dist/
 
-# Compiled Java class files
-*.class
-
 # Compiled Python bytecode
 *.py[cod]
 **/__pycache__/
 
 # Previous Version's folder
 Releases/
-
-# Package files
-*.jar
 
 # Maven
 target/
@@ -33,14 +27,4 @@ Thumbs.db
 desktop.ini
 
 # Applications
-*.app
 *.exe
-*.war
-
-# Large media files
-*.mp4
-*.tiff
-*.avi
-*.flv
-*.mov
-*.wmv
