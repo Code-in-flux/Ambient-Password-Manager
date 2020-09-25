@@ -13,7 +13,7 @@ Your contribution can be in the form of -
 
 <details>
 
-<summary> **Here's how you can do it**- </summary>
+<summary><strong> Here's how you can do it- </strong></summary>
 
 1. If you are working on a massive project, then [create an issue](https://github.com/Code-in-flux/Password-Manager/issues/new) for it before you begin ([learn more](https://docs.github.com/en/github/managing-your-work-on-github/about-issues))
 2. [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) this repository (Optional)
