@@ -7,8 +7,17 @@
  
 ### [Password Database](Password%20Database) (directory)-
 + [{username}.psddb](Password%20Database/user1.psddb)-
- stores the passwords of `{username}` in an encrypted format. Note that 'psddb' stands for 'PasSworD DataBase' (Seperate file for each user)
+ stores the passwords of `{username}` in an encrypted format. It is to be that 'psddb' stands for 'PasSworD DataBase' (Seperate file for each user)
  
 ### [Ambient-Password_Manager.py](Ambient-Password_Manager.py) (file)-
-The main program which does all the work
+The main program which does all the work.
+
+### [cipher.py](cipher.py) (file)-
+This is the code that will encypt the passwords and make it secure. (See: [How encryption works]())
+
+### How it works
+blah blah blah
+
+### How encryption works
+blah blah blah
 
