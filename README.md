@@ -19,7 +19,5 @@ Your contribution can be in the form of -
 4. When you are done, [create a pull request](https://github.com/Code-in-flux/Password-Manager/compare) from your branch to our master branch ([learn more](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests))
 5. Your changes will be reviewed, and decision will be made, whether or not to [merge](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges) your changes
 
-Please be patient. It may take more time than expected, for your changes to be reviewed
-
 ### License
 [MIT License](https://opensource.org/licenses/MIT)
