@@ -35,3 +35,6 @@ desktop.ini
 
 #for temperory storage purposes
 **/temp/
+
+#spinx build directory
+docs/_build/
